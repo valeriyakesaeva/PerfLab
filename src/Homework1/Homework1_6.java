@@ -1,4 +1,6 @@
-public class Main {
+package Homework1;
+
+public class Homework1_6 {
 
     public static void main(String[] args) {
 
